@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
+
+body{
+  font-family: 'Exo 2', sans-serif;
+}
+
+.kop{
+  margin-top: 100px;
+  font-size: 125px;
+  color: white;
+}
+
+
+
+hr{
+  width: 65%;
+  line-height: 1.5em;
+}
+
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #70bg32;
+    background-repeat:no-repeat;
+    background: -webkit-linear-gradient( to top bottom, #99BDEC, #1F4A84);
+    background: -moz-linear-gradient( to left bottom, #99BDEC, #1F4A84);
+    background: -ms-linear-gradient( to left bottom, #99BDEC, #1F4A84);
+    background: -o-linear-gradient( to left bottom, #99BDEC, #1F4A84);
+    background: linear-gradient( to left bottom, #99BDEC, #1F4A84);
+}
+
+button{
+  border-radius: 10px;
+  border: none;
+  margin-top: 75px;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 45px;
+  width: 500px;
+  height: 120px;
+}
+
+.button{
+  margin-top: 35px;
+}
+
+.button1{
+  margin-top: 50px;
+}
+
+.Herinner{
+  font-size: 35px;
+  margin-top: 30px;
+  color: white;
+}
+
+input{
+  width: 23px;
+  height: 23px;
+}
+
+.onder{
+  color: white;
+  font-size: 25px;
+}
+
+.binnen{
+  margin-top: 170px;
+}
