@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
+
+body{
+  font-family: 'Exo 2', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+  max-width: 100%;
+  height: 100px;
+  cursor: no-drop;
+  background: linear-gradient( to left bottom, #99BDEC, #1F4A84);
+  min-width: 100%;
+}
+
+.vl{
+  border-left: 1px solid grey;
+  height: 1000px;
+  margin-left: 250px;
+  margin-top: -10px;
+}
+
+.zij{
+  margin-top: -700px;
+  width: 350px;
+  margin-left: 250px;
+}
+
+.zij1{
+  margin-bottom: 100px;
+  width: 350px;
+  margin-left: 250px;
+}
+
+.taak1{
+  margin-left: -225px;
+  margin-top: -775px;
+  position: absolute;
+}
+
+.tijd1{
+  margin-left: -225px;
+  margin-top: -700px;
+  position: absolute;
+}
+
+.taak{
+  margin-left: -225px;
+  margin-top: -75px;
+  position: absolute;
+}
+
+.tijd{
+  margin-left: -225px;
+  position: absolute;
+}
+
+.taak2{
+  margin-left: -225px;
+  margin-top: 75px;
+  position: absolute;
+}
+
+.tijd2{
+  margin-left: -225px;
+  margin-top: 160px;
+  position: absolute;
+}
+
+.zij2{
+  margin-top: 250px;
+  width: 350px;
+  margin-left: 250px;
+}
+
+
+h2{
+float: center;
+padding: 20px;
+color: solid black;
+display: inline-block;
+}
+
+#navbar a {
+  float: center;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 50px;
+}
